@@ -3,7 +3,7 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": ["master","whitesource-remediate/org.springframework-spring-webmvc-4.x"]
+    "baseBranches": ["master","WEB-148"]
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
